@@ -1,4 +1,4 @@
-# ShelbyOS (Demo)
+# ShelbyOS (Demo: https://os-xp.vercel.app/)
 
 ShelbyOS is a browser-based desktop interface concept inspired by retro operating systems and designed to explore the idea of a decentralized Web3 desktop environment within the Shelby ecosystem.
 
